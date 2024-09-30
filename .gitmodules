@@ -12,3 +12,7 @@
 	url = https://github.com/jekyll/brand.git
 	ignore = dirty
 	shallow = true
+[submodule "Jekyll runtime dependency metapackages"]
+	path = Jekyll runtime dependency metapackages
+	url = https://gitlab.com/brlin/jekyll-runtime-dependency-metapackages.git
+	ignore = dirty
