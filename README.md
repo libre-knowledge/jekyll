@@ -18,6 +18,8 @@
 
 以下列舉本主題相關的官方資源：
 
+* [Jekyll](https://github.com/jekyll/jekyll)  
+  上游專案
 * [Jekyll’s logo](https://github.com/jekyll/brand)  
   Logo files for [Jekyll](http://jekyllrb.com).
 

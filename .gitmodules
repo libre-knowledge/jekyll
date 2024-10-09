@@ -20,3 +20,9 @@
 	path = Hello Jekyll
 	url = https://gitlab.com/brlin/hello-jekyll.git
 	ignore = dirty
+[submodule "上游專案"]
+	path = 上游專案
+	url = https://github.com/jekyll/jekyll.git
+	ignore = dirty
+	shallow = true
+	fetchRecurseSubmodules = false
