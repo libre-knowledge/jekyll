@@ -21,6 +21,13 @@
 * [Jekyll’s logo](https://github.com/jekyll/brand)  
   Logo files for [Jekyll](http://jekyllrb.com).
 
+## 試驗專案
+
+以下列舉本主題相關的試驗專案：
+
+* [Hello Jekyll](https://gitlab.com/brlin/hello-jekyll)  
+  Lab project for Jekyll's step by step tutorial.
+
 ## 參考資料
 
 以下列舉撰寫本主題內容時所參考的第三方資源：

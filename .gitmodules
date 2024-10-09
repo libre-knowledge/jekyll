@@ -16,3 +16,7 @@
 	path = Jekyll runtime dependency metapackages
 	url = https://gitlab.com/brlin/jekyll-runtime-dependency-metapackages.git
 	ignore = dirty
+[submodule "Hello Jekyll"]
+	path = Hello Jekyll
+	url = https://gitlab.com/brlin/hello-jekyll.git
+	ignore = dirty
